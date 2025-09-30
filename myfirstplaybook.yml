@@ -1,0 +1,8 @@
+---
+- host: all
+  become: yes
+  task: 
+  - name: i want to install webserver on ubuntu node ($ sudo apt-get install apache2 -y)
+    apt: 
+      name: apache2
+      state: present
