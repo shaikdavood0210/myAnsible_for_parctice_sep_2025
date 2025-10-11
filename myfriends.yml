@@ -1,0 +1,15 @@
+---
+- MyFriends : 
+      name: snadeep
+      phno: 9676068458
+      address: 
+         -city: Nellore
+         -state: AP
+      company: tcs
+      courses: 
+        - Aws
+        - DevOps
+        - git
+
+- MyTrip: 
+   
